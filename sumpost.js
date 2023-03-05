@@ -1,4 +1,3 @@
-
 no_thumb_sum = 300;
 thumb_sum = 200;
 thumb_h = 220;
